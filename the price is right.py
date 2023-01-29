@@ -1,8 +1,3 @@
-#TrungDong
-#U42594715
-#generate a random number, def a function to determine the closet value to the random number, use a list and a dictionary for the "if" statement
-#I use try and except plus the use of def function and list and dict and sys module. In case TAs said that I used to advance stuff
-
 import random 
 import sys 
 
