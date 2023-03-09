@@ -1,8 +1,3 @@
-#TrungDong
-#U42594715
-#input 2 number for numerator and denominator. Program ouput if the fraction is proper or improper 
-#if improper than ouput a mixed number 
-
 
 import math
 a = int(input("Enter a numerator: Value must be greater than 0: "))
