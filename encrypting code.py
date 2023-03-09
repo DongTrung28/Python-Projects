@@ -1,6 +1,3 @@
-#TrungDong
-#U42594715
-#enter a text file, function will use the dictionary to encrypt the text and return the encrypted version 
 
 Encrypt_Code =  {'A':')','a':'0','B':'(','b':'9','C':'*','c':'8', 
         'D':'&','d':'7','E':'^','e':'6','F':'%','f':'5',
