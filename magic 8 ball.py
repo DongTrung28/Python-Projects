@@ -1,7 +1,3 @@
-#TrungDong
-#U42594715
-#use the random module to get a random number, main function to get input for questions and answer to questions
-#response function contatin a list of response and return the response base on the order
 
 import random 
 
